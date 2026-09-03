@@ -1,7 +1,7 @@
 package estudojava;
 import java.util.Scanner;
 
-public class Questao17 {
+public class qst_1 {
     public static void main(String[] args) {
         Scanner teclado = new Scanner (System.in);
         System.out.println("Qual é a velocidade do carro ? ");

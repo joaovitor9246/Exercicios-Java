@@ -2,7 +2,7 @@ package estudojava;
 
 import java.util.Scanner;
 
-public class Questao21 {
+public class qst_2 {
 
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);

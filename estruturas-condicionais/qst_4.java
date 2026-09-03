@@ -1,7 +1,7 @@
 package estudojava;
 import java.util.Scanner;
 
-public class Questao23 {
+public class qst_4 {
 
     public static void main(String[] args) {
         Scanner teclado = new Scanner(System.in);
