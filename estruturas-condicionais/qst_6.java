@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main {
+public class qst_6 {
 
     public static void main(String[] args) {
 
